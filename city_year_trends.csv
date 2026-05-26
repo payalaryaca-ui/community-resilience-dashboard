@@ -1,1 +1,887 @@
-city_year_trends.csv
+year,CityName,AIRSNeedCategory,contact_count,population,contacts_per_10000
+2024,Alert Bay,Information Services,1,,
+2024,Alert Bay,Legal/Public Safety,3,,
+2024,Alert Bay,Mental Health/Substance Use Disorders,2,,
+2024,Borden,Health,1,,
+2024,Borden,Mental Health/Substance Use Disorders,5,,
+2024,Cold Lake,Community Services,6,,
+2024,Cold Lake,Consumer Services,2,,
+2024,Cold Lake,Education,2,,
+2024,Cold Lake,Food/Meals,6,,
+2024,Cold Lake,Health,4,,
+2024,Cold Lake,Housing,35,,
+2024,Cold Lake,Income Support/Financial Assistance,43,,
+2024,Cold Lake,Individual/Family Services,4,,
+2024,Cold Lake,Information Services,23,,
+2024,Cold Lake,Legal/Public Safety,16,,
+2024,Cold Lake,Mental Health/Substance Use Disorders,21,,
+2024,Cold Lake,Other Government/Economic Services,3,,
+2024,Cold Lake,Unknown,5,,
+2024,Cold Lake,Utility Assistance,3,,
+2024,Cold Lake,Volunteers/Donations,2,,
+2024,Comox,"Arts, Culture and Recreation",2,,
+2024,Comox,Citizenship/Immigration,2,,
+2024,Comox,Community Services,1,,
+2024,Comox,Consumer Services,1,,
+2024,Comox,Disaster,3,,
+2024,Comox,Education,1,,
+2024,Comox,Food/Meals,5,,
+2024,Comox,Health,8,,
+2024,Comox,Housing,13,,
+2024,Comox,Income Support/Financial Assistance,3,,
+2024,Comox,Individual/Family Services,9,,
+2024,Comox,Information Services,7,,
+2024,Comox,Legal/Public Safety,29,,
+2024,Comox,Mental Health/Substance Use Disorders,16,,
+2024,Comox,Other Government/Economic Services,3,,
+2024,Comox,Transportation,2,,
+2024,Comox,Utility Assistance,1,,
+2024,Edmonton,"Arts, Culture and Recreation",427,1200000.0,3.558333333333333
+2024,Edmonton,Citizenship/Immigration,468,1200000.0,3.9
+2024,Edmonton,Community Services,2144,1200000.0,17.866666666666667
+2024,Edmonton,Consumer Services,864,1200000.0,7.2
+2024,Edmonton,Disaster,88,1200000.0,0.7333333333333333
+2024,Edmonton,Education,310,1200000.0,2.5833333333333335
+2024,Edmonton,Employment,1001,1200000.0,8.341666666666667
+2024,Edmonton,Food/Meals,2201,1200000.0,18.341666666666665
+2024,Edmonton,Health,2160,1200000.0,18.0
+2024,Edmonton,Housing,8817,1200000.0,73.475
+2024,Edmonton,Income Support/Financial Assistance,6792,1200000.0,56.6
+2024,Edmonton,Individual/Family Services,2839,1200000.0,23.658333333333335
+2024,Edmonton,Information Services,4871,1200000.0,40.59166666666667
+2024,Edmonton,Legal/Public Safety,5402,1200000.0,45.016666666666666
+2024,Edmonton,Mental Health/Substance Use Disorders,11994,1200000.0,99.95
+2024,Edmonton,Other Government/Economic Services,1655,1200000.0,13.791666666666666
+2024,Edmonton,Transportation,9617,1200000.0,80.14166666666667
+2024,Edmonton,Unknown,1237,1200000.0,10.308333333333332
+2024,Edmonton,Utility Assistance,518,1200000.0,4.316666666666666
+2024,Edmonton,Volunteers/Donations,507,1200000.0,4.2250000000000005
+2024,Esquimalt,"Arts, Culture and Recreation",1,19512.0,0.5125051250512505
+2024,Esquimalt,Consumer Services,1,19512.0,0.5125051250512505
+2024,Esquimalt,Food/Meals,2,19512.0,1.025010250102501
+2024,Esquimalt,Health,1,19512.0,0.5125051250512505
+2024,Esquimalt,Housing,5,19512.0,2.5625256252562525
+2024,Esquimalt,Income Support/Financial Assistance,2,19512.0,1.025010250102501
+2024,Esquimalt,Individual/Family Services,5,19512.0,2.5625256252562525
+2024,Esquimalt,Information Services,1,19512.0,0.5125051250512505
+2024,Esquimalt,Legal/Public Safety,7,19512.0,3.587535875358754
+2024,Esquimalt,Mental Health/Substance Use Disorders,7,19512.0,3.587535875358754
+2024,Esquimalt,Transportation,1,19512.0,0.5125051250512505
+2024,Greenwood,"Arts, Culture and Recreation",2,,
+2024,Greenwood,Community Services,2,,
+2024,Greenwood,Disaster,2,,
+2024,Greenwood,Employment,2,,
+2024,Greenwood,Food/Meals,1,,
+2024,Greenwood,Health,13,,
+2024,Greenwood,Housing,10,,
+2024,Greenwood,Income Support/Financial Assistance,3,,
+2024,Greenwood,Individual/Family Services,2,,
+2024,Greenwood,Information Services,4,,
+2024,Greenwood,Legal/Public Safety,2,,
+2024,Greenwood,Mental Health/Substance Use Disorders,2,,
+2024,Greenwood,Other Government/Economic Services,2,,
+2024,Greenwood,Unknown,1,,
+2024,Greenwood,Utility Assistance,2,,
+2024,Halifax,"Arts, Culture and Recreation",111,503037.0,2.206597129038222
+2024,Halifax,Citizenship/Immigration,58,503037.0,1.1529966980560078
+2024,Halifax,Community Services,570,503037.0,11.33117444641249
+2024,Halifax,Consumer Services,258,503037.0,5.128847381007759
+2024,Halifax,Disaster,134,503037.0,2.663819957577673
+2024,Halifax,Education,46,503037.0,0.9144456570789027
+2024,Halifax,Employment,88,503037.0,1.7493743004987703
+2024,Halifax,Food/Meals,1247,503037.0,24.78942900820417
+2024,Halifax,Health,1743,503037.0,34.649538701924506
+2024,Halifax,Housing,1344,503037.0,26.717716589435767
+2024,Halifax,Income Support/Financial Assistance,908,503037.0,18.05036210060095
+2024,Halifax,Individual/Family Services,879,503037.0,17.473863751572946
+2024,Halifax,Information Services,641,503037.0,12.742601438860362
+2024,Halifax,Legal/Public Safety,737,503037.0,14.651009766677202
+2024,Halifax,Mental Health/Substance Use Disorders,1697,503037.0,33.735093044845605
+2024,Halifax,Other Government/Economic Services,920,503037.0,18.288913141578053
+2024,Halifax,Transportation,347,503037.0,6.898100934921287
+2024,Halifax,Unknown,339,503037.0,6.739066907603219
+2024,Halifax,Utility Assistance,353,503037.0,7.017376455409841
+2024,Halifax,Volunteers/Donations,121,503037.0,2.4053896631858094
+2024,Happy Valley-Goose Bay,Citizenship/Immigration,1,,
+2024,Happy Valley-Goose Bay,Health,2,,
+2024,Happy Valley-Goose Bay,Housing,2,,
+2024,Happy Valley-Goose Bay,Information Services,1,,
+2024,Kingston,"Arts, Culture and Recreation",35,,
+2024,Kingston,Citizenship/Immigration,14,,
+2024,Kingston,Community Services,30,,
+2024,Kingston,Consumer Services,32,,
+2024,Kingston,Disaster,4,,
+2024,Kingston,Education,5,,
+2024,Kingston,Employment,9,,
+2024,Kingston,Food/Meals,73,,
+2024,Kingston,Health,189,,
+2024,Kingston,Housing,188,,
+2024,Kingston,Income Support/Financial Assistance,69,,
+2024,Kingston,Individual/Family Services,64,,
+2024,Kingston,Information Services,98,,
+2024,Kingston,"Legal, Consumer and Public Safety Services",1,,
+2024,Kingston,Legal/Public Safety,92,,
+2024,Kingston,Mental Health/Substance Use Disorders,167,,
+2024,Kingston,Other Government/Economic Services,76,,
+2024,Kingston,Transportation,38,,
+2024,Kingston,Unknown,26,,
+2024,Kingston,Utility Assistance,68,,
+2024,Kingston,Volunteers/Donations,9,,
+2024,Montreal,Education,1,,
+2024,Montreal,Food/Meals,2,,
+2024,Montreal,Health,2,,
+2024,Montreal,Housing,8,,
+2024,Montreal,Information Services,1,,
+2024,Montreal,Legal/Public Safety,1,,
+2024,Montreal,Mental Health/Substance Use Disorders,1,,
+2024,Montreal,Other Government/Economic Services,1,,
+2024,MontrxE9al,"Arts, Culture and Recreation",2,,
+2024,MontrxE9al,Citizenship/Immigration,6,,
+2024,MontrxE9al,Clothing/Personal/Household Needs,1,,
+2024,MontrxE9al,Disaster,1,,
+2024,MontrxE9al,Disaster Services,3,,
+2024,MontrxE9al,Education,1,,
+2024,MontrxE9al,Employment,5,,
+2024,MontrxE9al,Food/Meals,3,,
+2024,MontrxE9al,Housing,45,,
+2024,MontrxE9al,Income Support/Assistance,1,,
+2024,MontrxE9al,"Individual, Family and Community Support",3,,
+2024,MontrxE9al,Information Services,18,,
+2024,MontrxE9al,"Legal, Consumer and Public Safety Services",9,,
+2024,MontrxE9al,Legal/Public Safety,3,,
+2024,MontrxE9al,Mental Health/Substance Use Disorders,4,,
+2024,MontrxE9al,Transportation,1,,
+2024,MontrxE9al,Unknown,2,,
+2024,MontrxE9al,Volunteers/Donations,1,,
+2024,MontrxE9al-Est,"Arts, Culture and Recreation",4,,
+2024,MontrxE9al-Est,Citizenship/Immigration,1,,
+2024,MontrxE9al-Est,Clothing/Personal/Household Needs,7,,
+2024,MontrxE9al-Est,Community Services,1,,
+2024,MontrxE9al-Est,Consumer Services,1,,
+2024,MontrxE9al-Est,Disaster Services,2,,
+2024,MontrxE9al-Est,Education,2,,
+2024,MontrxE9al-Est,Employment,14,,
+2024,MontrxE9al-Est,Food/Meals,39,,
+2024,MontrxE9al-Est,Health,1,,
+2024,MontrxE9al-Est,Health Care,3,,
+2024,MontrxE9al-Est,Housing,70,,
+2024,MontrxE9al-Est,Income Support/Assistance,13,,
+2024,MontrxE9al-Est,"Individual, Family and Community Support",11,,
+2024,MontrxE9al-Est,Individual/Family Services,2,,
+2024,MontrxE9al-Est,Information Services,13,,
+2024,MontrxE9al-Est,"Legal, Consumer and Public Safety Services",18,,
+2024,MontrxE9al-Est,Legal/Public Safety,4,,
+2024,MontrxE9al-Est,Mental Health/Substance Use Disorders,12,,
+2024,MontrxE9al-Est,Other Government/Economic Services,3,,
+2024,MontrxE9al-Est,Transportation,5,,
+2024,MontrxE9al-Est,Unknown,1,,
+2024,MontrxE9al-Est,Utility Assistance,3,,
+2024,MontrxE9al-Est,Volunteers/Donations,7,,
+2024,MontrxE9al-Nord,"Arts, Culture and Recreation",106,,
+2024,MontrxE9al-Nord,Clothing/Personal/Household Needs,194,,
+2024,MontrxE9al-Nord,Community Services,1,,
+2024,MontrxE9al-Nord,Disaster Services,12,,
+2024,MontrxE9al-Nord,Education,80,,
+2024,MontrxE9al-Nord,Employment,117,,
+2024,MontrxE9al-Nord,Food/Meals,645,,
+2024,MontrxE9al-Nord,Health Care,133,,
+2024,MontrxE9al-Nord,Housing,643,,
+2024,MontrxE9al-Nord,Income Support/Assistance,169,,
+2024,MontrxE9al-Nord,"Individual, Family and Community Support",324,,
+2024,MontrxE9al-Nord,Information Services,110,,
+2024,MontrxE9al-Nord,"Legal, Consumer and Public Safety Services",178,,
+2024,MontrxE9al-Nord,Mental Health/Substance Use Disorders,133,,
+2024,MontrxE9al-Nord,Other Government/Economic Services,64,,
+2024,MontrxE9al-Nord,Transportation,50,,
+2024,MontrxE9al-Nord,Unknown,29,,
+2024,MontrxE9al-Nord,Utility Assistance,4,,
+2024,MontrxE9al-Nord,Volunteers/Donations,137,,
+2024,MontrxE9al-Ouest,"Arts, Culture and Recreation",1,,
+2024,MontrxE9al-Ouest,Clothing/Personal/Household Needs,1,,
+2024,MontrxE9al-Ouest,Disaster Services,1,,
+2024,MontrxE9al-Ouest,Education,3,,
+2024,MontrxE9al-Ouest,Employment,1,,
+2024,MontrxE9al-Ouest,Food/Meals,5,,
+2024,MontrxE9al-Ouest,Health Care,1,,
+2024,MontrxE9al-Ouest,Housing,14,,
+2024,MontrxE9al-Ouest,Income Support/Assistance,1,,
+2024,MontrxE9al-Ouest,"Individual, Family and Community Support",6,,
+2024,MontrxE9al-Ouest,Information Services,1,,
+2024,MontrxE9al-Ouest,"Legal, Consumer and Public Safety Services",5,,
+2024,MontrxE9al-Ouest,Mental Health/Substance Use Disorders,2,,
+2024,MontrxE9al-Ouest,Other Government/Economic Services,3,,
+2024,MontrxE9al-Ouest,Transportation,1,,
+2024,MontrxE9al-Ouest,Volunteers/Donations,8,,
+2024,Montréal,Unknown,273,,
+2024,Montréal (Ville),Unknown,5,,
+2024,Montréal - Région 06,Unknown,3,,
+2024,Montréal-Est,Citizenship/Immigration,1,,
+2024,Montréal-Est,Employment,1,,
+2024,Montréal-Est,Income Support/Financial Assistance,1,,
+2024,Montréal-Est,Information Services,10,,
+2024,Montréal-Est,Legal/Public Safety,1,,
+2024,Montréal-Est,Mental Health/Substance Use Disorders,1,,
+2024,Montréal-Est,Other Government/Economic Services,1,,
+2024,Montréal-Nord,Information Services,3,,
+2024,Montréal-Ouest,Information Services,3,,
+2024,Moose Jaw,Citizenship/Immigration,2,34872.0,0.5735260380821289
+2024,Moose Jaw,Community Services,1,34872.0,0.28676301904106444
+2024,Moose Jaw,Consumer Services,5,34872.0,1.4338150952053224
+2024,Moose Jaw,Disaster,3,34872.0,0.8602890571231934
+2024,Moose Jaw,Education,1,34872.0,0.28676301904106444
+2024,Moose Jaw,Employment,1,34872.0,0.28676301904106444
+2024,Moose Jaw,Food/Meals,7,34872.0,2.007341133287451
+2024,Moose Jaw,Health,18,34872.0,5.161734342739161
+2024,Moose Jaw,Housing,24,34872.0,6.882312456985547
+2024,Moose Jaw,Income Support/Financial Assistance,24,34872.0,6.882312456985547
+2024,Moose Jaw,Individual/Family Services,16,34872.0,4.588208304657031
+2024,Moose Jaw,Information Services,15,34872.0,4.301445285615967
+2024,Moose Jaw,Legal/Public Safety,15,34872.0,4.301445285615967
+2024,Moose Jaw,Mental Health/Substance Use Disorders,79,34872.0,22.654278504244093
+2024,Moose Jaw,Other Government/Economic Services,1,34872.0,0.28676301904106444
+2024,Moose Jaw,Transportation,6,34872.0,1.7205781142463867
+2024,Moose Jaw,Utility Assistance,1,34872.0,0.28676301904106444
+2024,Moose Jaw,Volunteers/Donations,2,34872.0,0.5735260380821289
+2024,Oromocto,Employment,1,,
+2024,Oromocto,Food/Meals,1,,
+2024,Oromocto,Health,13,,
+2024,Oromocto,Housing,42,,
+2024,Oromocto,Income Support/Financial Assistance,6,,
+2024,Oromocto,Information Services,8,,
+2024,Oromocto,Legal/Public Safety,6,,
+2024,Oromocto,Mental Health/Substance Use Disorders,4,,
+2024,Oromocto,Other Government/Economic Services,4,,
+2024,Oromocto,Unknown,9,,
+2024,Oromocto,Utility Assistance,7,,
+2024,Oromocto,Volunteers/Donations,1,,
+2024,Ottawa,"Arts, Culture and Recreation",338,1097760.0,3.0789972307243842
+2024,Ottawa,Citizenship/Immigration,697,1097760.0,6.34929310596123
+2024,Ottawa,Community Services,1400,1097760.0,12.75324296749745
+2024,Ottawa,Consumer Services,387,1097760.0,3.525360734586795
+2024,Ottawa,Disaster,23,1097760.0,0.20951756303745808
+2024,Ottawa,Education,294,1097760.0,2.678181023174464
+2024,Ottawa,Employment,506,1097760.0,4.609386386824078
+2024,Ottawa,Food/Meals,2336,1097760.0,21.279696837195743
+2024,Ottawa,Health,3635,1097760.0,33.11288441918087
+2024,Ottawa,Housing,2047,1097760.0,18.64706311033377
+2024,Ottawa,Income Support/Financial Assistance,2794,1097760.0,25.45182917941991
+2024,Ottawa,Individual/Family Services,10192,1097760.0,92.84360880338143
+2024,Ottawa,Information Services,2797,1097760.0,25.479157557207404
+2024,Ottawa,Legal/Public Safety,1284,1097760.0,11.69654569304766
+2024,Ottawa,Mental Health/Substance Use Disorders,1837,1097760.0,16.73407666520915
+2024,Ottawa,Other Government/Economic Services,804,1097760.0,7.324005247048535
+2024,Ottawa,Transportation,388,1097760.0,3.5344701938492933
+2024,Ottawa,Unknown,384,1097760.0,3.4980323567993006
+2024,Ottawa,Utility Assistance,515,1097760.0,4.691371520186562
+2024,Ottawa,Volunteers/Donations,233,1097760.0,2.1225040081620756
+2024,Petawawa,"Arts, Culture and Recreation",1,19488.0,0.513136288998358
+2024,Petawawa,Community Services,1,19488.0,0.513136288998358
+2024,Petawawa,Employment,2,19488.0,1.026272577996716
+2024,Petawawa,Health,2,19488.0,1.026272577996716
+2024,Petawawa,Housing,5,19488.0,2.5656814449917897
+2024,Petawawa,Income Support/Financial Assistance,2,19488.0,1.026272577996716
+2024,Petawawa,Individual/Family Services,1,19488.0,0.513136288998358
+2024,Petawawa,Information Services,2,19488.0,1.026272577996716
+2024,Petawawa,Legal/Public Safety,2,19488.0,1.026272577996716
+2024,Petawawa,Mental Health/Substance Use Disorders,7,19488.0,3.5919540229885056
+2024,Petawawa,Other Government/Economic Services,2,19488.0,1.026272577996716
+2024,Petawawa,Transportation,1,19488.0,0.513136288998358
+2024,Petawawa,Utility Assistance,3,19488.0,1.5394088669950738
+2024,Petawawa,Volunteers/Donations,1,19488.0,0.513136288998358
+2024,Saint-Gabriel-de-Valcartier,Unknown,2,,
+2024,Shilo,Housing,3,,
+2024,Shilo,Mental Health/Substance Use Disorders,1,,
+2024,Trenton,"Arts, Culture and Recreation",1,16770.0,0.5963029218843172
+2024,Trenton,Community Services,4,16770.0,2.385211687537269
+2024,Trenton,Consumer Services,1,16770.0,0.5963029218843172
+2024,Trenton,Disaster,2,16770.0,1.1926058437686344
+2024,Trenton,Food/Meals,12,16770.0,7.155635062611807
+2024,Trenton,Health,18,16770.0,10.73345259391771
+2024,Trenton,Housing,14,16770.0,8.348240906380441
+2024,Trenton,Income Support/Financial Assistance,7,16770.0,4.174120453190221
+2024,Trenton,Individual/Family Services,7,16770.0,4.174120453190221
+2024,Trenton,Information Services,6,16770.0,3.5778175313059033
+2024,Trenton,Legal/Public Safety,5,16770.0,2.981514609421586
+2024,Trenton,Mental Health/Substance Use Disorders,15,16770.0,8.94454382826476
+2024,Trenton,Other Government/Economic Services,11,16770.0,6.55933214072749
+2024,Trenton,Transportation,5,16770.0,2.981514609421586
+2024,Trenton,Unknown,4,16770.0,2.385211687537269
+2024,Trenton,Utility Assistance,11,16770.0,6.55933214072749
+2024,Trenton,Volunteers/Donations,2,16770.0,1.1926058437686344
+2024,Winnipeg,"Arts, Culture and Recreation",72,850260.0,0.8467998024133795
+2024,Winnipeg,Citizenship/Immigration,110,850260.0,1.2937219203537742
+2024,Winnipeg,Community Services,266,850260.0,3.1284548255827627
+2024,Winnipeg,Consumer Services,124,850260.0,1.458377437489709
+2024,Winnipeg,Disaster,33,850260.0,0.38811657610613226
+2024,Winnipeg,Education,22,850260.0,0.25874438407075484
+2024,Winnipeg,Employment,144,850260.0,1.693599604826759
+2024,Winnipeg,Food/Meals,636,850260.0,7.480064921318186
+2024,Winnipeg,Health,547,850260.0,6.433326276668313
+2024,Winnipeg,Housing,1123,850260.0,13.20772469597535
+2024,Winnipeg,Income Support/Financial Assistance,328,850260.0,3.8576435443276176
+2024,Winnipeg,Individual/Family Services,803,850260.0,9.44417001858255
+2024,Winnipeg,Information Services,881,850260.0,10.361536471197045
+2024,Winnipeg,Legal/Public Safety,451,850260.0,5.304259873450474
+2024,Winnipeg,Mental Health/Substance Use Disorders,1093,850260.0,12.854891444969775
+2024,Winnipeg,Other Government/Economic Services,128,850260.0,1.505421870957119
+2024,Winnipeg,Transportation,153,850260.0,1.7994495801284311
+2024,Winnipeg,Unknown,520,850260.0,6.115776350763296
+2024,Winnipeg,Utility Assistance,151,850260.0,1.7759273633947261
+2024,Winnipeg,Volunteers/Donations,214,850260.0,2.5168771905064338
+2024,Yellowknife,Community Services,1,20340.0,0.4916420845624386
+2024,Yellowknife,Consumer Services,1,20340.0,0.4916420845624386
+2024,Yellowknife,Food/Meals,1,20340.0,0.4916420845624386
+2024,Yellowknife,Health,1,20340.0,0.4916420845624386
+2024,Yellowknife,Housing,2,20340.0,0.9832841691248771
+2024,Yellowknife,Income Support/Financial Assistance,2,20340.0,0.9832841691248771
+2024,Yellowknife,Individual/Family Services,3,20340.0,1.4749262536873156
+2024,Yellowknife,Information Services,7,20340.0,3.4414945919370696
+2024,Yellowknife,Legal/Public Safety,6,20340.0,2.949852507374631
+2024,Yellowknife,Mental Health/Substance Use Disorders,4,20340.0,1.9665683382497543
+2024,Yellowknife,Utility Assistance,1,20340.0,0.4916420845624386
+2025,Alert Bay,Legal/Public Safety,1,,
+2025,Borden,Mental Health/Substance Use Disorders,1,,
+2025,Cold Lake,Citizenship/Immigration,1,,
+2025,Cold Lake,Community Services,5,,
+2025,Cold Lake,Consumer Services,5,,
+2025,Cold Lake,Disaster,2,,
+2025,Cold Lake,Education,1,,
+2025,Cold Lake,Employment,2,,
+2025,Cold Lake,Food/Meals,10,,
+2025,Cold Lake,Health,11,,
+2025,Cold Lake,Housing,41,,
+2025,Cold Lake,Income Support/Financial Assistance,56,,
+2025,Cold Lake,Individual/Family Services,11,,
+2025,Cold Lake,Information Services,23,,
+2025,Cold Lake,Legal/Public Safety,16,,
+2025,Cold Lake,Mental Health/Substance Use Disorders,33,,
+2025,Cold Lake,Other Government/Economic Services,6,,
+2025,Cold Lake,Transportation,3,,
+2025,Cold Lake,Unknown,6,,
+2025,Cold Lake,Utility Assistance,3,,
+2025,Cold Lake,Volunteers/Donations,1,,
+2025,Comox,Community Services,1,,
+2025,Comox,Consumer Services,6,,
+2025,Comox,Employment,1,,
+2025,Comox,Food/Meals,3,,
+2025,Comox,Health,7,,
+2025,Comox,Housing,18,,
+2025,Comox,Income Support/Financial Assistance,1,,
+2025,Comox,Individual/Family Services,9,,
+2025,Comox,Information Services,5,,
+2025,Comox,Legal/Public Safety,25,,
+2025,Comox,Mental Health/Substance Use Disorders,27,,
+2025,Comox,Other Government/Economic Services,4,,
+2025,Comox,Transportation,2,,
+2025,Edmonton,"Arts, Culture and Recreation",430,1200000.0,3.5833333333333335
+2025,Edmonton,Citizenship/Immigration,335,1200000.0,2.7916666666666665
+2025,Edmonton,Community Services,1538,1200000.0,12.816666666666666
+2025,Edmonton,Consumer Services,777,1200000.0,6.475
+2025,Edmonton,Disaster,68,1200000.0,0.5666666666666667
+2025,Edmonton,Education,265,1200000.0,2.208333333333333
+2025,Edmonton,Employment,936,1200000.0,7.8
+2025,Edmonton,Food/Meals,2250,1200000.0,18.75
+2025,Edmonton,Health,2112,1200000.0,17.6
+2025,Edmonton,Housing,8738,1200000.0,72.81666666666666
+2025,Edmonton,Income Support/Financial Assistance,6642,1200000.0,55.35
+2025,Edmonton,Individual/Family Services,4620,1200000.0,38.5
+2025,Edmonton,Information Services,4566,1200000.0,38.05
+2025,Edmonton,Legal/Public Safety,5127,1200000.0,42.725
+2025,Edmonton,Mental Health/Substance Use Disorders,10469,1200000.0,87.24166666666666
+2025,Edmonton,Other Government/Economic Services,1373,1200000.0,11.441666666666666
+2025,Edmonton,Transportation,15881,1200000.0,132.34166666666667
+2025,Edmonton,Unknown,937,1200000.0,7.808333333333334
+2025,Edmonton,Utility Assistance,576,1200000.0,4.8
+2025,Edmonton,Volunteers/Donations,425,1200000.0,3.541666666666667
+2025,Esquimalt,Community Services,1,19512.0,0.5125051250512505
+2025,Esquimalt,Consumer Services,1,19512.0,0.5125051250512505
+2025,Esquimalt,Employment,5,19512.0,2.5625256252562525
+2025,Esquimalt,Food/Meals,2,19512.0,1.025010250102501
+2025,Esquimalt,Health,1,19512.0,0.5125051250512505
+2025,Esquimalt,Housing,2,19512.0,1.025010250102501
+2025,Esquimalt,Income Support/Financial Assistance,4,19512.0,2.050020500205002
+2025,Esquimalt,Individual/Family Services,1,19512.0,0.5125051250512505
+2025,Esquimalt,Information Services,1,19512.0,0.5125051250512505
+2025,Esquimalt,Legal/Public Safety,3,19512.0,1.5375153751537516
+2025,Esquimalt,Mental Health/Substance Use Disorders,2,19512.0,1.025010250102501
+2025,Esquimalt,Other Government/Economic Services,1,19512.0,0.5125051250512505
+2025,Esquimalt,Transportation,1,19512.0,0.5125051250512505
+2025,Esquimalt,Utility Assistance,1,19512.0,0.5125051250512505
+2025,Greenwood,Community Services,3,,
+2025,Greenwood,Food/Meals,3,,
+2025,Greenwood,Health,8,,
+2025,Greenwood,Housing,8,,
+2025,Greenwood,Income Support/Financial Assistance,2,,
+2025,Greenwood,Individual/Family Services,3,,
+2025,Greenwood,Information Services,2,,
+2025,Greenwood,Legal/Public Safety,9,,
+2025,Greenwood,Mental Health/Substance Use Disorders,6,,
+2025,Greenwood,Other Government/Economic Services,2,,
+2025,Greenwood,Transportation,2,,
+2025,Greenwood,Utility Assistance,1,,
+2025,Greenwood,Volunteers/Donations,1,,
+2025,Halifax,"Arts, Culture and Recreation",126,503037.0,2.504785930259603
+2025,Halifax,Citizenship/Immigration,87,503037.0,1.7294950470840118
+2025,Halifax,Community Services,346,503037.0,6.878221681506529
+2025,Halifax,Consumer Services,231,503037.0,4.592107538809272
+2025,Halifax,Disaster,33,503037.0,0.656015362687039
+2025,Halifax,Education,68,503037.0,1.3517892322035956
+2025,Halifax,Employment,148,503037.0,2.9421295053842957
+2025,Halifax,Food/Meals,1203,503037.0,23.91474185795478
+2025,Halifax,Health,1581,503037.0,31.429099648733594
+2025,Halifax,Housing,1499,503037.0,29.799000868723375
+2025,Halifax,Income Support/Financial Assistance,803,503037.0,15.963040492051281
+2025,Halifax,Individual/Family Services,789,503037.0,15.684730944244658
+2025,Halifax,Information Services,443,503037.0,8.806509262738128
+2025,Halifax,Legal/Public Safety,705,503037.0,14.014873657404923
+2025,Halifax,Mental Health/Substance Use Disorders,690,503037.0,13.71668485618354
+2025,Halifax,Other Government/Economic Services,579,503037.0,11.510087727145319
+2025,Halifax,Transportation,231,503037.0,4.592107538809272
+2025,Halifax,Unknown,119,503037.0,2.365631156356292
+2025,Halifax,Utility Assistance,218,503037.0,4.333677244417409
+2025,Halifax,Volunteers/Donations,144,503037.0,2.862612491725261
+2025,Happy Valley-Goose Bay,Community Services,1,,
+2025,Happy Valley-Goose Bay,Employment,2,,
+2025,Happy Valley-Goose Bay,Food/Meals,4,,
+2025,Happy Valley-Goose Bay,Health,1,,
+2025,Happy Valley-Goose Bay,Housing,3,,
+2025,Happy Valley-Goose Bay,Income Support/Financial Assistance,3,,
+2025,Happy Valley-Goose Bay,Mental Health/Substance Use Disorders,4,,
+2025,Happy Valley-Goose Bay,Unknown,1,,
+2025,Kingston,"Arts, Culture and Recreation",50,,
+2025,Kingston,Citizenship/Immigration,6,,
+2025,Kingston,Community Services,32,,
+2025,Kingston,Consumer Services,41,,
+2025,Kingston,Disaster,4,,
+2025,Kingston,Education,4,,
+2025,Kingston,Employment,12,,
+2025,Kingston,Food/Meals,104,,
+2025,Kingston,Health,262,,
+2025,Kingston,Housing,278,,
+2025,Kingston,Income Support/Financial Assistance,81,,
+2025,Kingston,Individual/Family Services,95,,
+2025,Kingston,Information Services,129,,
+2025,Kingston,Legal/Public Safety,132,,
+2025,Kingston,Mental Health/Substance Use Disorders,248,,
+2025,Kingston,Other Government/Economic Services,70,,
+2025,Kingston,Transportation,54,,
+2025,Kingston,Unknown,5,,
+2025,Kingston,Utility Assistance,75,,
+2025,Kingston,Volunteers/Donations,10,,
+2025,Montreal,Health,3,,
+2025,Montreal,"Individual, Family and Community Support",1,,
+2025,Montreal,Information Services,2,,
+2025,Montreal,Other Government/Economic Services,1,,
+2025,MontrxE9al,"Arts, Culture and Recreation",9,,
+2025,MontrxE9al,Citizenship/Immigration,1,,
+2025,MontrxE9al,Clothing/Personal/Household Needs,6,,
+2025,MontrxE9al,Disaster Services,7,,
+2025,MontrxE9al,Education,2,,
+2025,MontrxE9al,Employment,1,,
+2025,MontrxE9al,Food/Meals,9,,
+2025,MontrxE9al,Health Care,7,,
+2025,MontrxE9al,Housing,183,,
+2025,MontrxE9al,Income Support/Assistance,7,,
+2025,MontrxE9al,Income Support/Financial Assistance,1,,
+2025,MontrxE9al,"Individual, Family and Community Support",21,,
+2025,MontrxE9al,Information Services,83,,
+2025,MontrxE9al,"Legal, Consumer and Public Safety Services",41,,
+2025,MontrxE9al,Legal/Public Safety,1,,
+2025,MontrxE9al,Mental Health/Substance Use Disorders,39,,
+2025,MontrxE9al,Other Government/Economic Services,12,,
+2025,MontrxE9al,Transportation,5,,
+2025,MontrxE9al,Unknown,3,,
+2025,MontrxE9al,Volunteers/Donations,2,,
+2025,MontrxE9al-Est,"Arts, Culture and Recreation",10,,
+2025,MontrxE9al-Est,Clothing/Personal/Household Needs,4,,
+2025,MontrxE9al-Est,Disaster Services,1,,
+2025,MontrxE9al-Est,Education,1,,
+2025,MontrxE9al-Est,Employment,7,,
+2025,MontrxE9al-Est,Food/Meals,33,,
+2025,MontrxE9al-Est,Health Care,9,,
+2025,MontrxE9al-Est,Housing,55,,
+2025,MontrxE9al-Est,Income Support/Assistance,12,,
+2025,MontrxE9al-Est,"Individual, Family and Community Support",27,,
+2025,MontrxE9al-Est,Information Services,4,,
+2025,MontrxE9al-Est,"Legal, Consumer and Public Safety Services",11,,
+2025,MontrxE9al-Est,Mental Health/Substance Use Disorders,15,,
+2025,MontrxE9al-Est,Other Government/Economic Services,5,,
+2025,MontrxE9al-Est,Transportation,6,,
+2025,MontrxE9al-Est,Unknown,5,,
+2025,MontrxE9al-Est,Volunteers/Donations,8,,
+2025,MontrxE9al-Nord,"Arts, Culture and Recreation",90,,
+2025,MontrxE9al-Nord,Clothing/Personal/Household Needs,171,,
+2025,MontrxE9al-Nord,Disaster Services,15,,
+2025,MontrxE9al-Nord,Education,95,,
+2025,MontrxE9al-Nord,Employment,126,,
+2025,MontrxE9al-Nord,Food/Meals,502,,
+2025,MontrxE9al-Nord,Health Care,137,,
+2025,MontrxE9al-Nord,Housing,586,,
+2025,MontrxE9al-Nord,Income Support/Assistance,207,,
+2025,MontrxE9al-Nord,"Individual, Family and Community Support",401,,
+2025,MontrxE9al-Nord,Information Services,142,,
+2025,MontrxE9al-Nord,"Legal, Consumer and Public Safety Services",255,,
+2025,MontrxE9al-Nord,Mental Health/Substance Use Disorders,184,,
+2025,MontrxE9al-Nord,Other Government/Economic Services,66,,
+2025,MontrxE9al-Nord,Transportation,46,,
+2025,MontrxE9al-Nord,Unknown,17,,
+2025,MontrxE9al-Nord,Utility Assistance,7,,
+2025,MontrxE9al-Nord,Volunteers/Donations,167,,
+2025,MontrxE9al-Ouest,Citizenship/Immigration,3,,
+2025,MontrxE9al-Ouest,Employment,1,,
+2025,MontrxE9al-Ouest,Food/Meals,4,,
+2025,MontrxE9al-Ouest,Health Care,1,,
+2025,MontrxE9al-Ouest,Housing,23,,
+2025,MontrxE9al-Ouest,Income Support/Assistance,5,,
+2025,MontrxE9al-Ouest,"Individual, Family and Community Support",5,,
+2025,MontrxE9al-Ouest,Information Services,5,,
+2025,MontrxE9al-Ouest,"Legal, Consumer and Public Safety Services",4,,
+2025,MontrxE9al-Ouest,Mental Health/Substance Use Disorders,2,,
+2025,MontrxE9al-Ouest,Other Government/Economic Services,4,,
+2025,MontrxE9al-Ouest,Transportation,1,,
+2025,MontrxE9al-Ouest,Volunteers/Donations,7,,
+2025,Montréal,Unknown,574,,
+2025,Montréal (Ville),Unknown,12,,
+2025,Montréal - Région 06,Unknown,6,,
+2025,Montréal-Est,Disaster,1,,
+2025,Montréal-Est,Employment,1,,
+2025,Montréal-Est,Housing,3,,
+2025,Montréal-Est,Information Services,30,,
+2025,Montréal-Est,Legal/Public Safety,4,,
+2025,Montréal-Est,Mental Health/Substance Use Disorders,2,,
+2025,Montréal-Nord,Income Support/Financial Assistance,1,,
+2025,Montréal-Nord,Information Services,2,,
+2025,Montréal-Nord,Mental Health/Substance Use Disorders,1,,
+2025,Montréal-Nord,Unknown,3,,
+2025,Montréal-Ouest,Information Services,4,,
+2025,Montréal-Ouest,Mental Health/Substance Use Disorders,1,,
+2025,Moose Jaw,Citizenship/Immigration,1,34872.0,0.28676301904106444
+2025,Moose Jaw,Community Services,2,34872.0,0.5735260380821289
+2025,Moose Jaw,Consumer Services,10,34872.0,2.8676301904106447
+2025,Moose Jaw,Disaster,3,34872.0,0.8602890571231934
+2025,Moose Jaw,Education,1,34872.0,0.28676301904106444
+2025,Moose Jaw,Employment,7,34872.0,2.007341133287451
+2025,Moose Jaw,Food/Meals,6,34872.0,1.7205781142463867
+2025,Moose Jaw,Health,13,34872.0,3.7279192475338383
+2025,Moose Jaw,Housing,30,34872.0,8.602890571231933
+2025,Moose Jaw,Income Support/Financial Assistance,12,34872.0,3.4411562284927735
+2025,Moose Jaw,Individual/Family Services,14,34872.0,4.014682266574902
+2025,Moose Jaw,Information Services,35,34872.0,10.036705666437255
+2025,Moose Jaw,Legal/Public Safety,27,34872.0,7.742601514108741
+2025,Moose Jaw,Mental Health/Substance Use Disorders,47,34872.0,13.47786189493003
+2025,Moose Jaw,Other Government/Economic Services,5,34872.0,1.4338150952053224
+2025,Moose Jaw,Transportation,8,34872.0,2.2941041523285155
+2025,Moose Jaw,Utility Assistance,2,34872.0,0.5735260380821289
+2025,Moose Jaw,Volunteers/Donations,4,34872.0,1.1470520761642578
+2025,Oromocto,Citizenship/Immigration,1,,
+2025,Oromocto,Consumer Services,1,,
+2025,Oromocto,Food/Meals,1,,
+2025,Oromocto,Health,20,,
+2025,Oromocto,Housing,39,,
+2025,Oromocto,Income Support/Financial Assistance,8,,
+2025,Oromocto,Individual/Family Services,3,,
+2025,Oromocto,Information Services,12,,
+2025,Oromocto,Legal/Public Safety,7,,
+2025,Oromocto,Mental Health/Substance Use Disorders,3,,
+2025,Oromocto,Other Government/Economic Services,5,,
+2025,Oromocto,Utility Assistance,5,,
+2025,Ottawa,"Arts, Culture and Recreation",449,1097760.0,4.090147208861683
+2025,Ottawa,Citizenship/Immigration,719,1097760.0,6.54970120973619
+2025,Ottawa,Clothing/Personal/Household Needs,1,1097760.0,0.009109459262498178
+2025,Ottawa,Community Services,1460,1097760.0,13.29981052324734
+2025,Ottawa,Consumer Services,473,1097760.0,4.308774231161638
+2025,Ottawa,Disaster,28,1097760.0,0.255064859349949
+2025,Ottawa,Education,309,1097760.0,2.814822912111937
+2025,Ottawa,Employment,558,1097760.0,5.083078268473983
+2025,Ottawa,Food/Meals,2773,1097760.0,25.260530534907446
+2025,Ottawa,Health,3501,1097760.0,31.892216878006124
+2025,Ottawa,Housing,2819,1097760.0,25.679565660982366
+2025,Ottawa,Income Support/Financial Assistance,3259,1097760.0,29.687727736481563
+2025,Ottawa,Individual/Family Services,11594,1097760.0,105.61507068940388
+2025,Ottawa,Information Services,3739,1097760.0,34.060268182480684
+2025,Ottawa,Legal/Public Safety,1589,1097760.0,14.474930768109607
+2025,Ottawa,Mental Health/Substance Use Disorders,2551,1097760.0,23.238230578632855
+2025,Ottawa,Other Government/Economic Services,964,1097760.0,8.781518729048244
+2025,Ottawa,Transportation,595,1097760.0,5.4201282611864166
+2025,Ottawa,Unknown,190,1097760.0,1.7307972598746537
+2025,Ottawa,Utility Assistance,643,1097760.0,5.857382305786328
+2025,Ottawa,Volunteers/Donations,255,1097760.0,2.3229121119370353
+2025,Petawawa,Community Services,3,19488.0,1.5394088669950738
+2025,Petawawa,Employment,1,19488.0,0.513136288998358
+2025,Petawawa,Food/Meals,2,19488.0,1.026272577996716
+2025,Petawawa,Health,1,19488.0,0.513136288998358
+2025,Petawawa,Housing,10,19488.0,5.1313628899835795
+2025,Petawawa,Income Support/Financial Assistance,2,19488.0,1.026272577996716
+2025,Petawawa,Individual/Family Services,2,19488.0,1.026272577996716
+2025,Petawawa,Information Services,4,19488.0,2.052545155993432
+2025,Petawawa,Mental Health/Substance Use Disorders,7,19488.0,3.5919540229885056
+2025,Petawawa,Utility Assistance,10,19488.0,5.1313628899835795
+2025,Shilo,Food/Meals,1,,
+2025,Shilo,Information Services,1,,
+2025,Shilo,Mental Health/Substance Use Disorders,1,,
+2025,Shilo,Transportation,2,,
+2025,Trenton,Community Services,5,16770.0,2.981514609421586
+2025,Trenton,Consumer Services,11,16770.0,6.55933214072749
+2025,Trenton,Education,2,16770.0,1.1926058437686344
+2025,Trenton,Employment,2,16770.0,1.1926058437686344
+2025,Trenton,Food/Meals,18,16770.0,10.73345259391771
+2025,Trenton,Health,23,16770.0,13.714967203339297
+2025,Trenton,Housing,20,16770.0,11.926058437686343
+2025,Trenton,Income Support/Financial Assistance,14,16770.0,8.348240906380441
+2025,Trenton,Individual/Family Services,17,16770.0,10.137149672033393
+2025,Trenton,Information Services,8,16770.0,4.770423375074538
+2025,Trenton,Legal/Public Safety,16,16770.0,9.540846750149075
+2025,Trenton,Mental Health/Substance Use Disorders,17,16770.0,10.137149672033393
+2025,Trenton,Other Government/Economic Services,12,16770.0,7.155635062611807
+2025,Trenton,Transportation,3,16770.0,1.7889087656529516
+2025,Trenton,Unknown,4,16770.0,2.385211687537269
+2025,Trenton,Utility Assistance,13,16770.0,7.751937984496124
+2025,Winnipeg,"Arts, Culture and Recreation",101,850260.0,1.1878719450521016
+2025,Winnipeg,Citizenship/Immigration,89,850260.0,1.0467386446498717
+2025,Winnipeg,Community Services,430,850260.0,5.057276597746572
+2025,Winnipeg,Consumer Services,177,850260.0,2.081716180932891
+2025,Winnipeg,Disaster,301,850260.0,3.5400936184226
+2025,Winnipeg,Education,19,850260.0,0.22346105897019736
+2025,Winnipeg,Employment,188,850260.0,2.2110883729682684
+2025,Winnipeg,Food/Meals,1417,850260.0,16.66549055582998
+2025,Winnipeg,Health,778,850260.0,9.150142309411239
+2025,Winnipeg,Housing,1890,850260.0,22.228494813351208
+2025,Winnipeg,Income Support/Financial Assistance,598,850260.0,7.033142803377791
+2025,Winnipeg,Individual/Family Services,1052,850260.0,12.372686001928821
+2025,Winnipeg,Information Services,1780,850260.0,20.934772892997437
+2025,Winnipeg,Legal/Public Safety,742,850260.0,8.726742408204549
+2025,Winnipeg,Mental Health/Substance Use Disorders,1651,850260.0,19.417589913673464
+2025,Winnipeg,Other Government/Economic Services,275,850260.0,3.2343048008844355
+2025,Winnipeg,Transportation,248,850260.0,2.916754874979418
+2025,Winnipeg,Unknown,2,850260.0,0.023522216733704984
+2025,Winnipeg,Utility Assistance,228,850260.0,2.681532707642368
+2025,Winnipeg,Volunteers/Donations,214,850260.0,2.5168771905064338
+2025,Yellowknife,Income Support/Financial Assistance,1,20340.0,0.4916420845624386
+2025,Yellowknife,Information Services,1,20340.0,0.4916420845624386
+2026,Alert Bay,Information Services,1,,
+2026,Borden,Transportation,1,,
+2026,Cold Lake,Food/Meals,3,,
+2026,Cold Lake,Housing,5,,
+2026,Cold Lake,Income Support/Financial Assistance,13,,
+2026,Cold Lake,Individual/Family Services,2,,
+2026,Cold Lake,Information Services,5,,
+2026,Cold Lake,Legal/Public Safety,8,,
+2026,Cold Lake,Mental Health/Substance Use Disorders,1,,
+2026,Cold Lake,Other Government/Economic Services,2,,
+2026,Cold Lake,Unknown,1,,
+2026,Comox,"Arts, Culture and Recreation",1,,
+2026,Comox,Food/Meals,4,,
+2026,Comox,Health,1,,
+2026,Comox,Housing,4,,
+2026,Comox,Information Services,1,,
+2026,Comox,Legal/Public Safety,4,,
+2026,Comox,Mental Health/Substance Use Disorders,9,,
+2026,Comox,Other Government/Economic Services,1,,
+2026,Comox,Transportation,1,,
+2026,Edmonton,"Arts, Culture and Recreation",80,1200000.0,0.6666666666666667
+2026,Edmonton,Citizenship/Immigration,62,1200000.0,0.5166666666666666
+2026,Edmonton,Community Services,318,1200000.0,2.65
+2026,Edmonton,Consumer Services,168,1200000.0,1.4
+2026,Edmonton,Disaster,7,1200000.0,0.058333333333333334
+2026,Edmonton,Education,42,1200000.0,0.35
+2026,Edmonton,Employment,202,1200000.0,1.6833333333333331
+2026,Edmonton,Food/Meals,500,1200000.0,4.166666666666667
+2026,Edmonton,Health,470,1200000.0,3.916666666666667
+2026,Edmonton,Housing,1922,1200000.0,16.016666666666666
+2026,Edmonton,Income Support/Financial Assistance,1615,1200000.0,13.458333333333334
+2026,Edmonton,Individual/Family Services,1126,1200000.0,9.383333333333333
+2026,Edmonton,Information Services,813,1200000.0,6.775
+2026,Edmonton,Legal/Public Safety,1098,1200000.0,9.15
+2026,Edmonton,Mental Health/Substance Use Disorders,1908,1200000.0,15.9
+2026,Edmonton,Other Government/Economic Services,234,1200000.0,1.95
+2026,Edmonton,Transportation,4515,1200000.0,37.625
+2026,Edmonton,Unknown,129,1200000.0,1.075
+2026,Edmonton,Utility Assistance,126,1200000.0,1.05
+2026,Edmonton,Volunteers/Donations,93,1200000.0,0.775
+2026,Esquimalt,Community Services,1,19512.0,0.5125051250512505
+2026,Esquimalt,Food/Meals,5,19512.0,2.5625256252562525
+2026,Esquimalt,Legal/Public Safety,1,19512.0,0.5125051250512505
+2026,Esquimalt,Mental Health/Substance Use Disorders,1,19512.0,0.5125051250512505
+2026,Greenwood,Community Services,2,,
+2026,Greenwood,Employment,1,,
+2026,Greenwood,Food/Meals,1,,
+2026,Greenwood,Health,2,,
+2026,Greenwood,Housing,2,,
+2026,Greenwood,Income Support/Financial Assistance,1,,
+2026,Greenwood,Individual/Family Services,1,,
+2026,Greenwood,Legal/Public Safety,1,,
+2026,Greenwood,Mental Health/Substance Use Disorders,1,,
+2026,Greenwood,Volunteers/Donations,1,,
+2026,Halifax,"Arts, Culture and Recreation",36,503037.0,0.7156531229313152
+2026,Halifax,Citizenship/Immigration,29,503037.0,0.5764983490280039
+2026,Halifax,Community Services,107,503037.0,2.127080115379187
+2026,Halifax,Consumer Services,42,503037.0,0.8349286434198677
+2026,Halifax,Disaster,15,503037.0,0.2981888012213813
+2026,Halifax,Education,15,503037.0,0.2981888012213813
+2026,Halifax,Employment,43,503037.0,0.8548078968346265
+2026,Halifax,Food/Meals,353,503037.0,7.017376455409841
+2026,Halifax,Health,426,503037.0,8.46856195468723
+2026,Halifax,Housing,501,503037.0,9.959505960794138
+2026,Halifax,Income Support/Financial Assistance,253,503037.0,5.029451113933965
+2026,Halifax,Individual/Family Services,246,503037.0,4.8902963400306545
+2026,Halifax,Information Services,138,503037.0,2.743336971236708
+2026,Halifax,Legal/Public Safety,227,503037.0,4.512590525150237
+2026,Halifax,Mental Health/Substance Use Disorders,279,503037.0,5.546311702717693
+2026,Halifax,Other Government/Economic Services,194,503037.0,3.8565751624631988
+2026,Halifax,Transportation,90,503037.0,1.789132807328288
+2026,Halifax,Unknown,16,503037.0,0.3180680546361401
+2026,Halifax,Utility Assistance,87,503037.0,1.7294950470840118
+2026,Halifax,Volunteers/Donations,26,503037.0,0.5168605887837276
+2026,Happy Valley-Goose Bay,Housing,2,,
+2026,Happy Valley-Goose Bay,Information Services,1,,
+2026,Happy Valley-Goose Bay,Mental Health/Substance Use Disorders,3,,
+2026,Kingston,"Arts, Culture and Recreation",8,,
+2026,Kingston,Citizenship/Immigration,7,,
+2026,Kingston,Community Services,7,,
+2026,Kingston,Consumer Services,3,,
+2026,Kingston,Disaster,2,,
+2026,Kingston,Education,3,,
+2026,Kingston,Employment,4,,
+2026,Kingston,Food/Meals,19,,
+2026,Kingston,Health,89,,
+2026,Kingston,Housing,128,,
+2026,Kingston,Income Support/Financial Assistance,25,,
+2026,Kingston,Individual/Family Services,50,,
+2026,Kingston,Information Services,20,,
+2026,Kingston,Legal/Public Safety,39,,
+2026,Kingston,Mental Health/Substance Use Disorders,69,,
+2026,Kingston,Other Government/Economic Services,15,,
+2026,Kingston,Transportation,19,,
+2026,Kingston,Utility Assistance,23,,
+2026,Kingston,Volunteers/Donations,3,,
+2026,MontrxE9al,Citizenship/Immigration,1,,
+2026,MontrxE9al,Clothing/Personal/Household Needs,1,,
+2026,MontrxE9al,Disaster Services,4,,
+2026,MontrxE9al,Employment,4,,
+2026,MontrxE9al,Food/Meals,3,,
+2026,MontrxE9al,Health Care,7,,
+2026,MontrxE9al,Housing,43,,
+2026,MontrxE9al,Income Support/Assistance,2,,
+2026,MontrxE9al,"Individual, Family and Community Support",3,,
+2026,MontrxE9al,Information Services,11,,
+2026,MontrxE9al,"Legal, Consumer and Public Safety Services",5,,
+2026,MontrxE9al,Legal/Public Safety,1,,
+2026,MontrxE9al,Mental Health/Substance Use Disorders,11,,
+2026,MontrxE9al,Other Government/Economic Services,3,,
+2026,MontrxE9al,Transportation,1,,
+2026,MontrxE9al,Unknown,1,,
+2026,MontrxE9al-Est,Employment,1,,
+2026,MontrxE9al-Est,Food/Meals,7,,
+2026,MontrxE9al-Est,Health Care,3,,
+2026,MontrxE9al-Est,Housing,11,,
+2026,MontrxE9al-Est,Income Support/Assistance,3,,
+2026,MontrxE9al-Est,"Individual, Family and Community Support",2,,
+2026,MontrxE9al-Est,"Legal, Consumer and Public Safety Services",2,,
+2026,MontrxE9al-Est,Mental Health/Substance Use Disorders,7,,
+2026,MontrxE9al-Est,Other Government/Economic Services,1,,
+2026,MontrxE9al-Est,Volunteers/Donations,4,,
+2026,MontrxE9al-Nord,"Arts, Culture and Recreation",12,,
+2026,MontrxE9al-Nord,Clothing/Personal/Household Needs,7,,
+2026,MontrxE9al-Nord,Disaster Services,8,,
+2026,MontrxE9al-Nord,Education,9,,
+2026,MontrxE9al-Nord,Employment,27,,
+2026,MontrxE9al-Nord,Food/Meals,66,,
+2026,MontrxE9al-Nord,Health Care,19,,
+2026,MontrxE9al-Nord,Housing,96,,
+2026,MontrxE9al-Nord,Income Support/Assistance,25,,
+2026,MontrxE9al-Nord,"Individual, Family and Community Support",46,,
+2026,MontrxE9al-Nord,Information Services,19,,
+2026,MontrxE9al-Nord,"Legal, Consumer and Public Safety Services",32,,
+2026,MontrxE9al-Nord,Mental Health/Substance Use Disorders,34,,
+2026,MontrxE9al-Nord,Other Government/Economic Services,13,,
+2026,MontrxE9al-Nord,Transportation,5,,
+2026,MontrxE9al-Nord,Unknown,1,,
+2026,MontrxE9al-Nord,Volunteers/Donations,27,,
+2026,MontrxE9al-Ouest,Employment,1,,
+2026,MontrxE9al-Ouest,Housing,1,,
+2026,MontrxE9al-Ouest,Mental Health/Substance Use Disorders,2,,
+2026,Montréal,Unknown,223,,
+2026,Montréal (Ville),Unknown,10,,
+2026,Montréal - Région 06,Unknown,8,,
+2026,Montréal-Est,Employment,3,,
+2026,Montréal-Est,Housing,2,,
+2026,Montréal-Est,Income Support/Financial Assistance,1,,
+2026,Montréal-Est,Information Services,13,,
+2026,Montréal-Est,Mental Health/Substance Use Disorders,1,,
+2026,Montréal-Nord,Information Services,2,,
+2026,Montréal-Ouest,Information Services,1,,
+2026,Moose Jaw,Employment,3,34872.0,0.8602890571231934
+2026,Moose Jaw,Food/Meals,1,34872.0,0.28676301904106444
+2026,Moose Jaw,Housing,1,34872.0,0.28676301904106444
+2026,Moose Jaw,Income Support/Financial Assistance,2,34872.0,0.5735260380821289
+2026,Moose Jaw,Information Services,1,34872.0,0.28676301904106444
+2026,Moose Jaw,Legal/Public Safety,2,34872.0,0.5735260380821289
+2026,Moose Jaw,Mental Health/Substance Use Disorders,1,34872.0,0.28676301904106444
+2026,Moose Jaw,Transportation,1,34872.0,0.28676301904106444
+2026,Moose Jaw,Utility Assistance,1,34872.0,0.28676301904106444
+2026,Moose Jaw,Volunteers/Donations,2,34872.0,0.5735260380821289
+2026,Oromocto,Health,6,,
+2026,Oromocto,Housing,1,,
+2026,Oromocto,Income Support/Financial Assistance,2,,
+2026,Oromocto,Information Services,2,,
+2026,Oromocto,Legal/Public Safety,3,,
+2026,Oromocto,Mental Health/Substance Use Disorders,1,,
+2026,Oromocto,Other Government/Economic Services,2,,
+2026,Oromocto,Transportation,2,,
+2026,Ottawa,"Arts, Culture and Recreation",158,1097760.0,1.439294563474712
+2026,Ottawa,Citizenship/Immigration,153,1097760.0,1.3937472671622213
+2026,Ottawa,Community Services,319,1097760.0,2.905917504736919
+2026,Ottawa,Consumer Services,143,1097760.0,1.3026526745372395
+2026,Ottawa,Disaster,9,1097760.0,0.0819851333624836
+2026,Ottawa,Education,56,1097760.0,0.510129718699898
+2026,Ottawa,Employment,161,1097760.0,1.4666229412622067
+2026,Ottawa,Food/Meals,782,1097760.0,7.123597143273575
+2026,Ottawa,Health,950,1097760.0,8.653986299373269
+2026,Ottawa,Housing,904,1097760.0,8.234951173298354
+2026,Ottawa,Income Support/Financial Assistance,1455,1097760.0,13.25426322693485
+2026,Ottawa,Individual/Family Services,426,1097760.0,3.880629645824224
+2026,Ottawa,Information Services,1139,1097760.0,10.375674099985426
+2026,Ottawa,Legal/Public Safety,620,1097760.0,5.64786474274887
+2026,Ottawa,Mental Health/Substance Use Disorders,841,1097760.0,7.661055239760968
+2026,Ottawa,Other Government/Economic Services,282,1097760.0,2.568867512024486
+2026,Ottawa,Transportation,151,1097760.0,1.375528348637225
+2026,Ottawa,Unknown,77,1097760.0,0.7014283632123597
+2026,Ottawa,Utility Assistance,196,1097760.0,1.785454015449643
+2026,Ottawa,Volunteers/Donations,66,1097760.0,0.6012243113248797
+2026,Petawawa,Employment,1,19488.0,0.513136288998358
+2026,Petawawa,Health,1,19488.0,0.513136288998358
+2026,Petawawa,Housing,2,19488.0,1.026272577996716
+2026,Petawawa,Legal/Public Safety,1,19488.0,0.513136288998358
+2026,Petawawa,Mental Health/Substance Use Disorders,1,19488.0,0.513136288998358
+2026,Petawawa,Transportation,1,19488.0,0.513136288998358
+2026,Trenton,Citizenship/Immigration,2,16770.0,1.1926058437686344
+2026,Trenton,Food/Meals,3,16770.0,1.7889087656529516
+2026,Trenton,Health,11,16770.0,6.55933214072749
+2026,Trenton,Housing,8,16770.0,4.770423375074538
+2026,Trenton,Income Support/Financial Assistance,3,16770.0,1.7889087656529516
+2026,Trenton,Individual/Family Services,1,16770.0,0.5963029218843172
+2026,Trenton,Information Services,1,16770.0,0.5963029218843172
+2026,Trenton,Mental Health/Substance Use Disorders,2,16770.0,1.1926058437686344
+2026,Trenton,Other Government/Economic Services,6,16770.0,3.5778175313059033
+2026,Trenton,Transportation,5,16770.0,2.981514609421586
+2026,Trenton,Unknown,1,16770.0,0.5963029218843172
+2026,Trenton,Utility Assistance,5,16770.0,2.981514609421586
+2026,Winnipeg,"Arts, Culture and Recreation",15,850260.0,0.1764166255027874
+2026,Winnipeg,Citizenship/Immigration,16,850260.0,0.18817773386963987
+2026,Winnipeg,Community Services,64,850260.0,0.7527109354785595
+2026,Winnipeg,Consumer Services,41,850260.0,0.4822054430409522
+2026,Winnipeg,Disaster,9,850260.0,0.10584997530167244
+2026,Winnipeg,Education,2,850260.0,0.023522216733704984
+2026,Winnipeg,Employment,26,850260.0,0.3057888175381648
+2026,Winnipeg,Food/Meals,215,850260.0,2.528638298873286
+2026,Winnipeg,Health,182,850260.0,2.1405217227671534
+2026,Winnipeg,Housing,382,850260.0,4.492743396137652
+2026,Winnipeg,Income Support/Financial Assistance,145,850260.0,1.7053607131936113
+2026,Winnipeg,Individual/Family Services,195,850260.0,2.293416131536236
+2026,Winnipeg,Information Services,342,850260.0,4.022299061463553
+2026,Winnipeg,Legal/Public Safety,146,850260.0,1.7171218215604638
+2026,Winnipeg,Mental Health/Substance Use Disorders,292,850260.0,3.4342436431209276
+2026,Winnipeg,Other Government/Economic Services,34,850260.0,0.3998776844729847
+2026,Winnipeg,Transportation,42,850260.0,0.49396655140780465
+2026,Winnipeg,Utility Assistance,26,850260.0,0.3057888175381648
+2026,Winnipeg,Volunteers/Donations,31,850260.0,0.36459435937242723
