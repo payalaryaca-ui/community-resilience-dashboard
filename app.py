@@ -45,14 +45,14 @@ col1.metric("Communities selected", filtered["CityName"].nunique())
 col2.metric("Need categories selected", filtered["AIRSNeedCategory"].nunique())
 col3.metric("Total contacts", f"{filtered['contact_count'].sum():,.0f}")
 
-# Tabs
-tab1, tab2, tab3, tab4 = st.tabs([
+#Tabs
+tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "Trends",
     "Top Needs",
     "Community Comparison",
+    "Top Needs by Year",
     "Data Table"
 ])
-
 with tab1:
     st.subheader("Year-to-Year Trends by Need Category")
 
@@ -121,7 +121,44 @@ with tab3:
     )
 
     st.plotly_chart(fig3, use_container_width=True)
-
 with tab4:
+    st.subheader("Top Needs by Year for Each Community")
+
+    top_needs_year = (
+        filtered.groupby(["CityName", "year", "AIRSNeedCategory"])["contacts_per_10000"]
+        .sum()
+        .reset_index()
+    )
+
+    top_needs_year["rank"] = (
+        top_needs_year
+        .groupby(["CityName", "year"])["contacts_per_10000"]
+        .rank(method="first", ascending=False)
+    )
+
+    top_needs_year = top_needs_year[top_needs_year["rank"] <= 5]
+
+    fig4 = px.bar(
+        top_needs_year,
+        x="contacts_per_10000",
+        y="AIRSNeedCategory",
+        color="year",
+        facet_col="CityName",
+        orientation="h",
+        barmode="group",
+        labels={
+            "contacts_per_10000": "Contacts per 10,000 residents",
+            "AIRSNeedCategory": "Need Category",
+            "year": "Year",
+            "CityName": "Community"
+        },
+        title="Top 5 Needs by Year for Each Community"
+    )
+
+    fig4.update_yaxes(categoryorder="total ascending")
+    fig4.update_layout(height=650)
+
+    st.plotly_chart(fig4, use_container_width=True)
+with tab5:
     st.subheader("Filtered Data")
     st.dataframe(filtered, use_container_width=True)
